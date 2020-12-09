@@ -2,15 +2,16 @@ The project is called 'Battle'. Here is a mockup of how it might look towards th
 
 https://github.com/makersacademy/course/blob/master/intro_to_the_web/images/battle_final_mockup.png?raw=true
 
-Battle Final Mockup
-
 In this challenge, you will set up a basic project structure with Sinatra, RSpec, and Capybara ready to go.
 
-Learning Objectives covered
-Set up a web project with Testing frameworks
-Challenge setup
+### Learning Objectives covered
+- Set up a web project with Testing frameworks
+
+### Challenge setup
+
 Here are the complete User Stories for this project. They begin with some 'Basic' User Stories:
 
+```
 As two Players,
 So we can play a personalised game of Battle,
 We want to Start a fight by entering our Names and seeing them
@@ -46,3 +47,4 @@ I want Player 2's attack to reduce my HP by 10
 As a Player,
 So I can Lose a game of Battle,
 I want to see a 'Lose' message if I reach 0HP first
+```
