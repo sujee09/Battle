@@ -1,5 +1,5 @@
 class Player
-  attr_reader :name, :hitpoints
+  attr_accessor :name, :hitpoints
 
   DEFAULT_HITPOINTS = 60
 
